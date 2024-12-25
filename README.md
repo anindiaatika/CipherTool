@@ -1,4 +1,4 @@
-1. Caesar Cipher
+1. Caesar Cipher :
 Tugas ini membuat program enkripsi dan dekripsi menggunakan Caesar Cipher, yaitu teknik kriptografi sederhana dengan menggeser huruf-huruf dalam teks berdasarkan nilai kunci tertentu.
 cara menjalankan: 
 1) jalankan program caesar_gui.py
@@ -8,7 +8,7 @@ cara menjalankan:
 5) klik tombol PROCESS TEXT untuk memproses teks.
 6) program akan menampilkan hasil pada kolom "Output"
 
-2. DES
+2. DES :
 Tugas ini berisi implementasi algoritma DES (Data Encryption Standard) menggunakan Python dengan antarmuka GUI berbasis Tkinter. Program ini memungkinkan pengguna untuk mengenkripsi dan mendekripsi teks menggunakan kunci sepanjang 8 karakter.
 cara menjalankan:
 1) jalankan program des_gui.py
@@ -17,7 +17,7 @@ cara menjalankan:
 4) klik Encrypt untuk mengenkripsi atau Decrypt untuk mendekripsi teks
 5) hasil akan ditampilkan di bagian "output text"
 
-3. Enigma
+3. Enigma :
 Tugas ini berisi program yang  memungkinkan pengguna untuk mengenkripsi atau memproses teks menggunakan model Enigma sederhana dengan pengaturan posisi rotor yang dapat disesuaikan.
 cara menjalankan:
 1) jalankan program enigma_gui.py
@@ -26,7 +26,7 @@ cara menjalankan:
 4) klik tombol Proses untuk mengenkripsi atau memproses teks.
 5) lihat hasil pemrosesan di kolom Output.
 
-4. Stegano
+4. Stegano :
 Tugas ini berisi program yang memungkinkan pengguna untuk menyembunyikan pesan di dalam gambar atau mengekstrak pesan yang telah disembunyikan
 cara menjalankan:
 1) jalankan program erty_gui.py
@@ -35,5 +35,5 @@ cara menjalankan:
 4) pilih "Simpan ke" untuk menentukan lokasi dan nama file hasil gambar yang telah disembunyikan pesan
 5) pilih mode Sembunyikan atau Tampilkan menggunakan tombol radio.
 6) klik tombol Proses untuk menjalankan steganografi.
-> jika mode adalah Sembunyikan, pesan akan disembunyikan di dalam gambar.
-> jika mode adalah Tampilkan, pesan yang telah disembunyikan dalam gambar akan diekstrak dan ditampilkan.
+7) jika mode adalah Sembunyikan, pesan akan disembunyikan di dalam gambar.
+8) jika mode adalah Tampilkan, pesan yang telah disembunyikan dalam gambar akan diekstrak dan ditampilkan.
